@@ -151,7 +151,7 @@ h2 {
     display: flex;
     background-color: white;
     font-family: 'poppins';
-    font-size: 1em;
+    font-size: 0.9em;
     font-weight: bold;
     color: black;
     text-align: center;
@@ -164,4 +164,3 @@ h2 {
     width: 100px;
     opacity: 0.3;
 }
-
