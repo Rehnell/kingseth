@@ -116,6 +116,7 @@ h2 {
     height: 400px;
     width: 400px;
     border-radius: 25px;
+    object-fit: scale-down;
 }
 
 /* Section 3 */
