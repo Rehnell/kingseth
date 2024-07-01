@@ -113,8 +113,8 @@ h2 {
 .albumcover {
     margin-left: 10vw;
     margin-top: 5vh;
-    height: 400px;
-    width: 400px;
+    height: 300px;
+    width: 300px;
     border-radius: 25px;
     object-fit: scale-down;
 }
