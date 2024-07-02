@@ -105,8 +105,9 @@ h2 {
     font-size: 60px;
     font-weight: bold;
     color: white;
-    margin-left: 10vw;
     padding-top: 10vh;
+    margin-left: 10vw;
+    margin-right: 49vw;
     z-index: 101;
 }
 
