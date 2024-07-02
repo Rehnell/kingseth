@@ -97,7 +97,8 @@ iframe{
 /* Section 2 */
 
 .box-two {
-    height: 150vh;
+    height: 100vh;
+    background-image: "../images/Egyptian Hieroglyphs.png"
 }
 
 h2 {
