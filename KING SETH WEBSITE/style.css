@@ -102,12 +102,14 @@ iframe{
 }
 
 h2 {
-    font-family: 'Bungee';
-    font-size: 50px;
+    font-family: "Lilita One", sans-serif;
+    font-size: 60px;
     font-weight: bold;
     color: white;
+    padding-top: 10vh;
     margin-left: 10vw;
-    padding-top: 5vh;
+    margin-right: 49vw;
+    z-index: 101;
 }
 
 .about_King_seth {
