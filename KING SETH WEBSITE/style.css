@@ -98,7 +98,7 @@ iframe{
 
 .box-two {
     height: 100vh;
-    background-image: url(KING SETH WEBSITE/images/Egyptian\ Hieroglyphs.png);
+    background-image: "../images/Egyptian Hieroglyphs.png"
 }
 
 h2 {
